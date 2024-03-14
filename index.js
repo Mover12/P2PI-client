@@ -32,7 +32,7 @@ const chunksCashSize = 16;
 const zoomSpeed = 1;
 const zoomMaximum = 10;
 
-const URL = '127.0.0.1'
+const URL = '192.168.0.100'
 const PORT = 5000;
 
 const socket = await new Promise((resolve, reject) => {
