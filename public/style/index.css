@@ -1,0 +1,17 @@
+.position {
+    user-select: none;
+}
+
+.colors {
+    height: 20px;
+}
+
+.color {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+}
+
+.color:hover {
+    transform: scale(1.2);
+}
